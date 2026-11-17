@@ -1,0 +1,14 @@
+# Hệ điều hành
+.DS_Store
+Thumbs.db
+
+# Trình soạn thảo
+.vscode/
+.idea/
+
+# Node / log
+node_modules/
+*.log
+
+# Biến môi trường
+.env
